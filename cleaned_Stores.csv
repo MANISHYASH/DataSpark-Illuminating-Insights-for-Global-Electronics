@@ -1,0 +1,68 @@
+StoreKey,Country,State,Square Meters,Open Date
+1,Australia,Australian Capital Territory,595.0,2008-01-01
+2,Australia,Northern Territory,665.0,2008-01-12
+3,Australia,South Australia,2000.0,2012-01-07
+4,Australia,Tasmania,2000.0,2010-01-01
+5,Australia,Victoria,2000.0,2015-12-09
+6,Australia,Western Australia,2000.0,2010-01-01
+7,Canada,New Brunswick,1105.0,2007-05-07
+8,Canada,Newfoundland and Labrador,2105.0,2014-07-02
+9,Canada,Northwest Territories,1500.0,2005-03-04
+10,Canada,Nunavut,1210.0,2015-04-04
+11,Canada,Yukon,1210.0,2009-06-03
+12,France,Basse-Normandie,350.0,2012-06-06
+13,France,Corse,245.0,2013-06-07
+14,France,Franche-ComtÃ©,350.0,2009-12-15
+15,France,La RÃ©union,400.0,2015-01-01
+16,France,Limousin,385.0,2010-06-03
+17,France,Martinique,350.0,2007-07-08
+18,France,Mayotte,310.0,2012-08-08
+19,Germany,Berlin,1295.0,2015-04-04
+20,Germany,Brandenburg,1715.0,2012-12-15
+21,Germany,Freie Hansestadt Bremen,560.0,2018-06-03
+22,Germany,Freistaat ThÃ¼ringen,2000.0,2008-03-06
+23,Germany,Hamburg,1365.0,2010-01-01
+24,Germany,Hessen,1855.0,2012-12-15
+25,Germany,Mecklenburg-Vorpommern,1610.0,2010-01-01
+26,Germany,Saarland,350.0,2019-03-05
+27,Germany,Sachsen-Anhalt,2000.0,2008-08-08
+28,Italy,Caltanissetta,1200.0,2012-12-15
+29,Italy,Enna,1000.0,2008-01-01
+30,Italy,Pesaro,2100.0,2008-01-12
+31,Netherlands,Drenthe,1085.0,2012-01-07
+32,Netherlands,Flevoland,910.0,2010-01-01
+33,Netherlands,Friesland,1540.0,2015-12-09
+34,Netherlands,Groningen,1365.0,2010-01-01
+35,Netherlands,Zeeland,1225.0,2007-05-07
+36,United Kingdom,Armagh,1300.0,2014-07-02
+37,United Kingdom,Ayrshire,2100.0,2005-03-04
+38,United Kingdom,Belfast,1800.0,2015-04-04
+39,United Kingdom,Blaenau Gwent,2100.0,2009-06-03
+40,United Kingdom,Dungannon and South Tyrone,1300.0,2012-06-06
+41,United Kingdom,Fermanagh,2100.0,2013-06-07
+42,United Kingdom,North Down,1900.0,2009-12-15
+43,United States,Alaska,1190.0,2015-01-01
+44,United States,Arkansas,2000.0,2010-06-03
+45,United States,Connecticut,2000.0,2007-07-08
+46,United States,Delaware,1015.0,2012-08-08
+47,United States,Hawaii,1120.0,2015-04-04
+48,United States,Idaho,1540.0,2012-12-15
+49,United States,Iowa,2000.0,2018-06-03
+50,United States,Kansas,2000.0,2008-03-06
+51,United States,Maine,1295.0,2010-01-01
+52,United States,Mississippi,2000.0,2009-06-03
+53,United States,Montana,1260.0,2012-06-06
+54,United States,Nebraska,2000.0,2013-06-07
+55,United States,Nevada,2000.0,2009-12-15
+56,United States,New Hampshire,1260.0,2015-01-01
+57,United States,New Mexico,1645.0,2010-06-03
+58,United States,North Dakota,1330.0,2007-07-08
+59,United States,Oregon,2000.0,2012-08-08
+60,United States,Rhode Island,1260.0,2005-04-04
+61,United States,South Carolina,2000.0,2012-12-15
+62,United States,South Dakota,1120.0,2018-06-03
+63,United States,Utah,2000.0,2008-03-06
+64,United States,Washington DC,1330.0,2010-01-01
+65,United States,West Virginia,1785.0,2012-01-01
+66,United States,Wyoming,840.0,2014-01-01
+0,Online,Online,1347.5,2010-01-01
